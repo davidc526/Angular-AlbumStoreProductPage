@@ -1,6 +1,6 @@
 
 import { ProductService } from '../product.service';
-import { Album } from './../album';
+import { Album } from '../album';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
